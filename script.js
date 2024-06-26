@@ -16,6 +16,7 @@ const maxOfTwoNumbers = (x, y) => {
   }
 };
 
+
 console.log("Exercise 1 Result:", maxOfTwoNumbers(3, 9));
 
 /*
